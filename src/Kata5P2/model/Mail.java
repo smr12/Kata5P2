@@ -1,4 +1,4 @@
-package kata4.model;
+package Kata5P2.model;
 
 public class Mail {
     private final String mail;
